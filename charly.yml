@@ -1,3 +1,4 @@
+version: 2026.232.0520
 check-builder-npm:
     candy:
         version: 2026.182.1300
