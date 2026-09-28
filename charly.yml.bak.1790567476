@@ -1,5 +1,7 @@
+version: 2026.232.0520
 check-builder-npm:
     candy:
+        version: 2026.182.1300
         description: |-
             Minimal npm BUILDER fixture candy for the check-builder-vm R10 bed. Its package.json
             declares a single tiny zero-dependency package (is-number@7.0.0), so the built-in npm
